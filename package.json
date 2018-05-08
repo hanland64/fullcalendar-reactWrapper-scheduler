@@ -1,7 +1,7 @@
 {
-  "name": "fullcalendar-reactwrapper",
+  "name": "fullcalendar-reactwrapper-scheduler",
   "version": "1.0.7",
-  "description": "A React Calendar with events",
+  "description": "A React Calendar with events + scheduler add-on",
   "main": "lib/index.js",
   "scripts": {
     "dev": "NODE_ENV=development npm start",
